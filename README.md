@@ -9,4 +9,4 @@ After reading this guide, you will know:
 * The basic principles of MVC (Model, View, Controller) and RESTful design.
 * How to quickly generate the starting pieces of a Rails application.
 
-Source: https://guides.rubyonrails.org/getting_started.html#showing-articles
+Source: https://guides.rubyonrails.org/getting_started.html
